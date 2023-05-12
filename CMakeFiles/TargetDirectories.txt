@@ -1,0 +1,3 @@
+C:/Users/XPS/Documents/qt_cpp_demo-thread-build/CMakeFiles/QT_DEMO_TEST.dir
+C:/Users/XPS/Documents/qt_cpp_demo-thread-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/XPS/Documents/qt_cpp_demo-thread-build/CMakeFiles/ZERO_CHECK.dir

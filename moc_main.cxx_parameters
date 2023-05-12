@@ -1,0 +1,11 @@
+-IC:/Qt/qt4.8.7-msvc2015-x64/include
+-IC:/Qt/qt4.8.7-msvc2015-x64/include/QtGui
+-IC:/Qt/qt4.8.7-msvc2015-x64/include/QtCore
+-DQT_DLL
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-DWIN32
+-o
+C:/Users/XPS/Documents/qt_cpp_demo-thread-build/moc_main.cxx
+C:/Users/XPS/Documents/qt_cpp_demo/main.h
